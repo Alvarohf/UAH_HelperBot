@@ -16,7 +16,7 @@ namespace UAHBot
         static ITelegramBotClient botClient;
         static void Main(string[] args)
         {
-            botClient = new TelegramBotClient("1018997932:AAGR-d9lOEEdIwORVn1kC0QG2-3PRvicAPc");
+            botClient = new TelegramBotClient("TOKEN");
             var me = botClient.GetMeAsync().Result;
             Console.WriteLine(
               $"Iniciando bot {me.Id} con nombre {me.FirstName}."
