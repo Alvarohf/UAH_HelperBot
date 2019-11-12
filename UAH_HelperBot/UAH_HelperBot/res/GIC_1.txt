@@ -1,0 +1,12 @@
+Primer Cuatrimestre:
+-ESTADISTICA - 780004, Juan Jose Cuadrado Gallego 
+-FUNDAMENTOS DE PROGRAMACION -780003, Rosalia Peña Ros 
+-FUNDAMENTOS DE TECNOLOGIA DE COMPUTADORES -780002, Alvaro Perales Eceiza
+FUNDAMENTOS MATEMATICOS - 780001, Enriqueta Muel Muel
+-FÍSICA - 780000, Miguel Angel Raposo Sanchez
+
+Segundo Cuatrimestre:
+-DESARROLLO DE SOFTWATE - 590000, Jose Luis Cuadrado Garcia
+-ESTRUCTURA Y ORGANIZACION DE COMPUTADORES - 780010, Rafael Rico Lopez
+-ESTRUCTURAS DISCRETAS -780008, Tomasa Calvo Sanchez
+-GESTION EMPRESARIAL - 590001, Jesus Perez Hidalgo

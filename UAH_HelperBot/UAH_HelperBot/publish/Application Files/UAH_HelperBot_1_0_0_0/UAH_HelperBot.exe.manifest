@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="UAH_HelperBot.exe" version="1.0.0.0" publicKeyToken="95499eef5f447793" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="UAH_HelperBot" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="UAH_HelperBot.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          Opciones del manifiesto de UAC
+          Si desea cambiar el nivel de Control de cuentas de usuario de Windows, reemplace el
+          nodo requestedExecutionLevel por uno de los siguientes.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Si desea usar Virtualización de archivos y Registro para compatibilidad con
+         versiones anteriores, elimine el nodo requestedExecutionLevel.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Newtonsoft.Json.dll" size="662528">
+      <assemblyIdentity name="Newtonsoft.Json" version="11.0.0.0" publicKeyToken="30AD4FE6B2A6AEED" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>9Yw3T/yq5ONtdA2Q+/f+cNCrtzKM2a86CntwgD6ZS6Q=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Telegram.Bot.dll" size="181760">
+      <assemblyIdentity name="Telegram.Bot" version="15.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>kcKwT3ZKyc97haovNOCbs4KZ0niMFB7oPoN6VVvFajU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UAH_HelperBot.exe" size="28656">
+      <assemblyIdentity name="UAH_HelperBot" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>pIdnjWS6Gyee0YCiFV3ncVKpjfAGb92KXozA0y9O3TE=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="UAH_HelperBot.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>R+Wg8QGvQVHX8T0ta/qbhH1bXkqY0fRnS3wBV3J0bN8=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=DESKTOP-4TT80UA\Alvarohf" issuerKeyHash="60daa2bd923eee323b3945693ec48ad50e6d65b1" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>ET0gQ8gAT+hcNJkp3uYSVN7JFVekhkVy2jBP5COVWW0=</DigestValue></Reference></SignedInfo><SignatureValue>RvbbIBbBy+ZStFqNFak4yWqIau143hnGGfwAjxmcKj2D/ACAYuvZaWqsgpudfUxaAzTQ9J4hyYqQ4ZOMsyjc9YrFokaO5atYQ6dNQPu+B31c8qnxF2//5VTZTCl3MHMV/jD9F3oTROV9pA7nbar7LyB495+l5VOQqnX8pAACXDY=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vK0j3qNkQ+OtqPa21gEoC5+PbAHqNQDetANZQrWoU0V57IlVVbmcnddxHt7D9e2RkoDAmKrbMq3Lun+D+xbBuGUDE6NE741dBA6r9r5r0FA+q7+7D2YTDOwmT5UilEptLvMmme0GIZoZ/5b5IB7ldxG0bBBckYM82Vn/GEfqsjU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="6d599523e44f30da724586a45715c9de5412e6de2999345ce84f00c843203d11" Description="" Url=""><as:assemblyIdentity name="UAH_HelperBot.exe" version="1.0.0.0" publicKeyToken="95499eef5f447793" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=DESKTOP-4TT80UA\Alvarohf</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>wmVX0YtvBPZkTsg/RCuFbrpjn00vP5fDHF14kA7JckA=</DigestValue></Reference></SignedInfo><SignatureValue>ekpkONJjLAfGreE02liSHf/crAwB/l4uNxlaWwZqh2+H2uR5CrcIssu5Rm6sS8RZPThKAx8h9fSGXDMs0ml1ITjO84Osp201LvmAfDRc7oNSNQz8y/PivfldQs7hWw2iasLRhRAB/3NUD6r0C2FVjC99xEaEtBxJHJYSWnU2cus=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vK0j3qNkQ+OtqPa21gEoC5+PbAHqNQDetANZQrWoU0V57IlVVbmcnddxHt7D9e2RkoDAmKrbMq3Lun+D+xbBuGUDE6NE741dBA6r9r5r0FA+q7+7D2YTDOwmT5UilEptLvMmme0GIZoZ/5b5IB7ldxG0bBBckYM82Vn/GEfqsjU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB+TCCAWKgAwIBAgIQa+kBEW+EALFNrbe23WkUZTANBgkqhkiG9w0BAQsFADA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtADQAVABUADgAMABVAEEAXABBAGwAdgBhAHIAbwBoAGYwHhcNMTkxMTEyMTgyNjQxWhcNMjAxMTEyMDAyNjQxWjA7MTkwNwYDVQQDHjAARABFAFMASwBUAE8AUAAtADQAVABUADgAMABVAEEAXABBAGwAdgBhAHIAbwBoAGYwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALytI96jZEPjraj2ttYBKAufj2wB6jUA3rQDWUK1qFNFeeyJVVW5nJ3XcR7ew/XtkZKAwJiq2zKty7p/g/sWwbhlAxOjRO+NXQQOq/a+a9BQPqu/uw9mEwzsJk+VIpRKbS7zJpntBiGaGf+W+SAe5XcRtGwQXJGDPNlZ/xhH6rI1AgMBAAEwDQYJKoZIhvcNAQELBQADgYEAnjFJgySf6tl9PrkaIu4TJRHuoWnKpuFK+iUSSBrqtv8+QWOeFP0RxMH427y/Bc86SZ8xw9Ghjs7AOaPNWVD4OWEk8bN6TwialzwK57q3NeGPXJd+RJQ1G0ojGeUPDhROJpgVo+yHG2LcqvmFuxc1okR79ErC+bH0VXrQuwDUh7c=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

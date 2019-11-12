@@ -1,0 +1,13 @@
+Primer cuatrimestre:
+-COMPILADORES - 591000, Antonio Moratilla Ocaña
+-FUNDAMENTOS DE ELECTRONICA PARA SISTEMAS COMPUTACIONALES - 591002, Ana Isabel de Andres Rubio
+-SISTEMAS Y COMUNICACIONES - 591001, Ricardo Jimenez Martinez
+-INTELIGENCIA ARTIFICIAL -780024, Leon Atilano Gonzalez Sotos
+-SISTEMAS OPERATIVOS AVANZADOS - 780012, Oscar Garcia Poblacion
+
+Segundo cuatrimestre:
+-GESTION DE PROYECTOS - 780022, Jose Manuel Gomez Pulido
+-MODELADO DE SISTEMAS COMPUTACIONALES - 591003, Pedro Martin Sanchez
+-PERCEPCION Y CONTROL - 590007, Daniel Pizarro Perez
+-SISTEMAS EMPOTRADOS - 590010, Oscar Rodriguez Polo
+-SISTEMAS EN TIEMPO REAL - 590008, Ignacio Parra Alonso

@@ -1,0 +1,16 @@
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\bin\Debug\UAH_HelperBot.exe.config
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\bin\Debug\UAH_HelperBot.exe
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\bin\Debug\UAH_HelperBot.pdb
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\bin\Debug\Telegram.Bot.dll
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\bin\Debug\Telegram.Bot.xml
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\obj\Debug\UAH_HelperBot.csprojAssemblyReference.cache
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\obj\Debug\UAH_HelperBot.csproj.CoreCompileInputs.cache
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\obj\Debug\UAH_HelperBot.csproj.CopyComplete
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\obj\Debug\UAH_HelperBot.exe
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\obj\Debug\UAH_HelperBot.pdb
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\bin\Debug\UAH_HelperBot.exe.manifest
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\bin\Debug\UAH_HelperBot.application
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\obj\Debug\UAH_HelperBot.exe.manifest
+C:\Users\Cliri\source\repos\UAH_HelperBot\UAH_HelperBot\obj\Debug\UAH_HelperBot.application

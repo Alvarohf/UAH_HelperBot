@@ -1,0 +1,8 @@
+Primer cuatrimestre:
+-INGENIERIA DEL SOFTWARE AVANZADA - 780019, M. Carmen Pages Arevalo
+-INTELIGENCIA ARTIFICIAL -780024, Leon Atilano Gonzalez Sotos
+-SISTEMAS OPERATIVOS AVANZADOS - 780012, Oscar Garcia Poblacion
+
+Segundo cuatrimestre:
+-GESTION DE PROYECTOS - 780022, Jose Manuel Gomez Pulido
+-SISTEMAS EMPRESARIALES -780023, Eugenio Jose Fernandez Vicente

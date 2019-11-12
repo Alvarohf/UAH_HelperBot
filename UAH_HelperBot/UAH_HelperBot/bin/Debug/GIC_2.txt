@@ -1,0 +1,13 @@
+Primer Cuatrimestre:
+-ARQUITECTURA DE REDES -780011, Jose Raul Duran Diaz
+-BASES DE DATOS - 780016, Jose Antonio Gutierrez de Mesa
+-ESTRUCTURAS DE DATOS -780009, Javier Albert Segui
+-MATEMATICAS AVANZADAS - 780013, Enriqueta Muel Muel
+-SISTEMAS OPERATIVOS - 780007, Oscar Garcia Poblacion
+
+Segundo Cuatrimestre:" +
+-ANALISIS DE CIRCUITOS - 590003, Maria del Pilar Garcia Diaz
+-ARQUITECTURA E INGENIERIA DE COMPUTADORES - 590005, Maria Virginia Escuder Cabañas
+-INGENIERIA DEL SOFTWARE - 780015, Manuel Felipe Catedra Perez
+-PROGRAMACION AVANZADA -780014, Ana Castillo Martinez
+-REDES DE COMPUTADORES -780017, Jose Raul Duran Diaz
